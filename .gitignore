@@ -40,3 +40,7 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# post to ignore
+_posts/悼亡妻.md
+_posts/訃文.txt
